@@ -47,4 +47,5 @@ If you have any questions or need further assistance, feel free to reach out to 
 - GitHub: [fomosapien23](https://github.com/fomosapien23)
 - Email: [rairohan2309@gmail.com]
 
-  <img src="images/pic.png" style = "height:400px">
+![alt text](https://github.com/fomosapien23/Dice-game/blob/main/images/pic.png?raw=true)
+
